@@ -4,6 +4,6 @@ description: TJ Gillis - Game Dev / DevOps / App Dev
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
-mastodon: mastodon.openbracket.ca
-blog: blog.openbracket.ca
-github: github.com/bardic
+mastodon: http://mastodon.openbracket.ca
+blog: http://blog.openbracket.ca
+github: http://github.com/bardic
